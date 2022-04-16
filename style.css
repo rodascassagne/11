@@ -1,9 +1,12 @@
+@import url(content.css);  /*esto sirve para importar otro archivo css , para no tener que llenar el head del html*/
+
 
 :root{
     --darkgray:#212329;
     --brightred:#f9423d;
     --white:#fff;
     --lightred:#f9433dcc;
+    --lightblue: #337af1;
 }
 
 *{
